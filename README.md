@@ -1,2 +1,2 @@
-# Blogify
-A modern, responsive blogging platform with a dynamic editor, Google authentication, profile management, nested comments, notifications, and blog analytics.
+# Docuverse
+AI-powered PDF interaction platform that lets users chat with, analyze, and extract insights from any document instantly.
